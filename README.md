@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **adilk9030@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1sSlSDLsefT0ojT-EiebJY-iAMXazGJ-c/view?usp=sharing](https://drive.google.com/file/d/1sSlSDLsefT0ojT-EiebJY-iAMXazGJ-c/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1efySlxaWM-FLocfhZkPClVLtAh5i-TuK/view?usp=sharing](https://drive.google.com/file/d/1efySlxaWM-FLocfhZkPClVLtAh5i-TuK/view?usp=sharing)
 
 - ⚡ Fun fact **I enjoyed while studying**
 
