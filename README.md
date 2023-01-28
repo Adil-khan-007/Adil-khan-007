@@ -48,18 +48,18 @@ Here are some ideas to get you started:
 -->
 
 
-<div align='left'>
+<div align='center'>
   <h2>Stats</h2>
 </div>
 
  
-  ![Adil's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Adil-khan-007&show_icons=true&theme=light&include_all_commits=true&count_private=true)
-  <div>
+![Adil's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Adil-khan-007&show_icons=true&theme=light&include_all_commits=true&count_private=true)
+  <div align="center">
        <a href="https://github.com/Adil-khan-007">
            <img width={{base : '250px', md : '480px', lg : '500px'}} src="https://github-readme-streak-stats.herokuapp.com/?user=Adil-khan-007&show_icons=true&count_private=true&border=white"/></a>
    </div>
   
- <div>
+ <div align="right">
     <a href="https://github.com/Adil-khan-007">
        <img width={{base : '250px', md : '260px', lg : '350px'}} src='https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Adil-khan-007&layout=compact&langs_count=5&theme=light'/></a>
   </div>
